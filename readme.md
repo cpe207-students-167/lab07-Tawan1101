@@ -3,11 +3,11 @@
 
 ### ป้อนข้อมูลนักศึกษา
 
-รหัส นศ.:
+รหัส นศ.: 660610793
 
-ชื่อ-สกุล :
+ชื่อ-สกุล : วันฉาย ลุงเนิ่ง
 
-GitHub Page URL :
+GitHub Page URL : https://cpe207-students-167.github.io/lab07-Tawan1101/
 
 ---
 
